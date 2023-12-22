@@ -6,7 +6,7 @@ Install latest neovim
 
 Backup exisiting Nvim configuration if any.
 ```
-nv ~/.config/nvim ~/.config/nvim.bak
+mv ~/.config/nvim ~/.config/nvim.bak
 rm -fr ~/.local/share/nvim
 ```
 
